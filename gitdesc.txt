@@ -1,1 +1,0 @@
-A lightweight & efficient SFTP Client & SFTP Server which support strong SSH 2.0 encryption and advanced cryptography
