@@ -1,8 +1,11 @@
 /*
- * IPWorks SFTP 2022 JavaScript Edition - Demo Application
+ * IPWorks SFTP 2022 JavaScript Edition - Sample Project
  *
- * Copyright (c) 2023 /n software inc. - All rights reserved. - www.nsoftware.com
+ * This sample project demonstrates the usage of IPWorks SFTP in a 
+ * simple, straightforward way. This is not intended to be a complete 
+ * application. Error handling and other checks are simplified for clarity.
  *
+ * Copyright (c) 2023 /n software inc. www.nsoftware.com
  */
  
 const readline = require("readline");

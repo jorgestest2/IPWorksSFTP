@@ -119,14 +119,14 @@ questions, please visit <a href="http://www.nsoftware.com/?demopg-IFPHA" target=
 contact our technical <a href="http://www.nsoftware.com/support/">support</a>.
 <br/>
 <br/>
-Copyright (c) 2023 /n software inc. - All rights reserved.
+Copyright (c) 2023 /n software inc.
 <br/>
 <br/>
 </div>
 
 <div id="footer">
 <center>
-IPWorks SFTP 2022 - Copyright (c) 2023 /n software inc. - All rights reserved. - For more information, please visit our website at <a href="http://www.nsoftware.com/?demopg-IFPHA" target="_blank">www.nsoftware.com</a>.
+IPWorks SFTP 2022 - Copyright (c) 2023 /n software inc. - For more information, please visit our website at <a href="http://www.nsoftware.com/?demopg-IFPHA" target="_blank">www.nsoftware.com</a>.
 </center>
 </div>
 
